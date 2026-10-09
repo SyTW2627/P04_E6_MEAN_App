@@ -79,7 +79,7 @@ Atlas cluster:
 
 ```env
 DATABASE_URI=mongodb+srv://<username>:<password>@<cluster>.mongodb.net/
-PORT=5300
+PORT=530
 ```
 
 If you are new to Atlas, use the [Atlas quick start guide](https://www.mongodb.com/docs/atlas/getting-started/?utm_campaign=devrel&utm_source=github&utm_medium=referral&utm_content=mean.stack.example&utm_term=learning.fuel) and then paste your connection string into `DATABASE_URI`.
